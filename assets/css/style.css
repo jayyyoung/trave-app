@@ -1,0 +1,45 @@
+body
+{
+	background-image: url(../images/background.jpg) ;
+	
+}
+.text-center
+{
+	font-family: 'Berkshire Swash', cursive;
+	text-shadow: 1px 1px 2px black, 0 0 25px #00efdf, 0 0 5px darkblue; 
+	
+}
+.panel
+{	
+
+	margin-top: -40px;
+}
+.panel-title
+{
+
+   font-family: 'Berkshire Swash', cursive;
+}
+
+/*#displayPoi img {
+	padding-left:35%;
+}*/
+
+.new-display {
+	margin-top:15px;
+	margin-bottom:20px;
+	padding:2% 2%;
+	border: 1px solid #00bc8c;
+	margin-right:8px;
+}
+.nameDisplay {
+	text-align: center;
+	font-size:225%;
+	color:#00bc8c;
+	font-family: 'Berkshire Swash', cursive;
+}
+
+#get-info {
+	width:100%;
+}
+
+

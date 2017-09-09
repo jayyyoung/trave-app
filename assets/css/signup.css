@@ -1,0 +1,44 @@
+
+body
+{
+	background: url(../images/signup2.jpg) ; 
+	background-size: cover;
+	font-family: sans-serif;
+}
+#form
+{
+	position: relative;
+	width: 500px;
+	height: 550px;
+	background-color: rgba(0,0,0,0.4);
+	margin: 0 auto;
+	margin-top: 10px;
+	padding-top: 0px;
+	padding-left: 30px;
+	padding-right: 30px;
+	border-radius: 15px;
+	
+}
+#header
+{
+	color: #00bc8c;
+	text-shadow: 1px 3px 1px black, 0 0 5px #00efdf, 0 0 5px darkblue;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+#submit
+{
+	font-weight: bold;
+}
+label
+{
+	color: white;
+}
+#submit
+{
+	margin-top: 30px;
+	font-weight: bold;
+	width: 440px;
+
+}
